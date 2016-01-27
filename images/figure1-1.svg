@@ -386,10 +386,10 @@
            style="font-size:30px"
            y="69.330719"
            x="29"
-           height="37"
-           width="274"
+           height="41"
+           width="282"
            id="rect5135" /></flowRegion><flowPara
-         id="flowPara5148">CUBE MOVEMENT</flowPara></flowRoot>    <text
+         id="flowPara5148" /></flowRoot>    <text
        id="text5776"
        y="870.36218"
        x="67"
@@ -419,5 +419,14 @@
          y="982.36218"
          x="149"
          id="tspan5788">Figure 1-1</tspan></text>
+    <text
+       id="text5845"
+       y="824.36218"
+       x="89"
+       style="font-style:normal;font-weight:normal;font-size:30px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="824.36218"
+         x="89"
+         id="tspan5847">CUBE MOVEMENT</tspan></text>
   </g>
 </svg>
