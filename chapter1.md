@@ -12,4 +12,4 @@ About half of those people then go away to work out how the cube comes apart, mu
 
 Masochists who insisted on restoring their cubes without any help have taken weeks or months. Several of our friends took nine months to a year! When you understand the basic strategy taught in this book, you will be able to restore any scrambled cube without referring again to the book. The strategy does not require you to memorize any sequences of moves. You are taught the reason for each and every face turn.
 
-![Figure 1-1]()
+![Figure 1-1](./images/figure1-1.svg)
