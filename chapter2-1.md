@@ -15,6 +15,6 @@ Home Position -- of a cubie | The orientation in the home location to which a cu
 Positional Names for Cube Faces | Up/Down/Right/Left/Front/Back
 Notation for Cubicles -- shown in *italics* | Lower case initials. For example, *uf* denotes the Up-Front edge cubicle.
 Notation for Cubies -- shown in *italics* | Upper case initials. For example, *URF* denotes the cubie whose home position is in the Up-Right-Front corner.
-Notation for Face Turns -- shown in **BLOCK** CAPITAL LETTERS | The initials, U, F, R, D, B, and L denote clockwise quarter turns. U<sup>-1</sup>, F<sup>-1</sup>, R<sup>-1</sup>, D<sup>-1</sup>, B<sup>-1</sup>, and L<sup>-1</sup> denote counter-clockwise quarter turns. U<sup>2</sup>, F<sup>2</sup>, R<sup>2</sup>, D<sup>2</sup>, B<sup>2</sup>, and L<sup>2</sup> denote half turns.
+Notation for Face Turns -- shown in BLOCK CAPITAL LETTERS | The initials, U, F, R, D, B, and L denote clockwise quarter turns. U<sup>-1</sup>, F<sup>-1</sup>, R<sup>-1</sup>, D<sup>-1</sup>, B<sup>-1</sup>, and L<sup>-1</sup> denote counter-clockwise quarter turns. U<sup>2</sup>, F<sup>2</sup>, R<sup>2</sup>, D<sup>2</sup>, B<sup>2</sup>, and L<sup>2</sup> denote half turns.
 Moving the Whole Cube | 𝓤, 𝓕, 𝓡, 𝓓, 𝓑 and 𝓛 denote clockwise turns of the whole cube behind the indicated face.
 <center><font color="gray">Figure 2-1</font></center>
