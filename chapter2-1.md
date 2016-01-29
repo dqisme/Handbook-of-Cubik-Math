@@ -1,6 +1,6 @@
 # Chapter 2-1: Cubies and Cubicles
 
-Looking at the cube as a whole, at first glance, it appears to be made up of 3x3x3=27 cubies in three layers, each layer being a three-by-three square of small cubies. However, it is only possible to see the outside of the cube, so that only 26 cubies can be seen. The one in the center is only imaginary. Also, all that we can see of each of the 26 visible cubies are the colored facelets which combine to form the six faces of the entire cube. Each face of the cube is made up of nine such facelets. Thus there are 6x9=54 facelets ont the cube.
+Looking at the cube as a whole, at first glance, it appears to be made up of 3x3x3=27 cubies in three layers, each layer being a three-by-three square of small cubies. However, it is only possible to see the outside of the cube, so that only 26 cubies can be seen. The one in the center is only imaginary. Also, all that we can see of each of the 26 visible cubies are the colored facelets which combine to form the six faces of the entire cube. Each face of the cube is made up of nine such facelets. Thus there are 6x9=54 facelets on the cube.
 
 <center>SUMMARY OF TERMINOLOGY AND NOTATION</center>
 
