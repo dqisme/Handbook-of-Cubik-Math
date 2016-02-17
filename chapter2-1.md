@@ -48,10 +48,9 @@ It is possible for a cubie to be in the cubicle of its home location without bei
 ##EXERCISES:
 
 2.1-1 How many of the 54 facelets of the cube are
-
-  a. facelets of curner cubies?
-  b. facelets of edge cubies?
-  c. facelets of center cubies?
+..a. facelets of curner cubies?
+..b. facelets of edge cubies?
+..c. facelets of center cubies?
 
 2.1-2 At how many locations can an edge cubie be placed so that the colors of both of the two adjacent center cubies are different from both colors on the facelets of that edge cubie?
 
