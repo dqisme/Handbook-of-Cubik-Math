@@ -26,3 +26,32 @@ By rotating different faces of the cube, the cubies can be moved about. Each cub
 > The color of the center piece of any face defines the only color to which that face of the cube can be restored.
 
 For each center piece the color of the opposite center piece never changes. Furthermore, if two opposite center pieces are placed in the positions of north and south poles respectively, then the sequential order of the other four center pieces around the equator is always the same.
+
+![Figure 2-2](.)
+![Figure 2-3](.)
+![Figure 2-4](.)
+
+Since the center cubie of each face determines the only color to which that face can be restored, we can also define the one and only cubicle in which each cubie can be placed to restore the cube. For example, if the two facelets of an edge cubie are orange and green, then that piece must be placed in the unique edge cubicle between the orange center piece and the green center piece as shown shaded in Figure 2-5. Furthermore, the cubie must be placed in that cubicle so that its orange facelet is next to the orange center piece and the green facelet is next to the green center piece.
+
+![Figure 2-5](.)
+
+Similarly, if the three facelets of a corner cubie are orange, green, and white then, to restore that cubie, it must be placed in the corner cubicle where the orange face, the green face, and the white face meet -- shaded in Figure 2-6. Furthermore, its orange, green, and white facelets must be on the orange, green and white faces respectively.
+
+![Figure 2-6](.)
+
+For each edge and corner cubie in the cube, the unique cubicle to which it must be restored is called the *home location* for that cubie. When a cubie is in its home lcoation and its facelets colors match the colors of the center pieces on each face, then the cubie is said to be in its *home position*.
+
+It is possible for a cubie to be in the cubicle of its home location without being in its home position. A corner piece in this condition is said to be *twisted* in its home location.An edge piece in this condition is said to be *flipped* in its home location. Figure 2-7 shows a twisted corner cubie and a flipped edge cubie. Thus, each corner and edge cubie has a unique home location and in that cubicle it has a unique placement which puts it in its home position.
+
+![Figure 2-7](.)
+
+##EXERCISES:
+
+2.1-1 How many of the 54 facelets of the cube are
+  a. facelets of curner cubies?
+  b. facelets of edge cubies?
+  c. facelets of center cubies?
+
+2.1-2 At how many locations can an edge cubie be placed so that the colors of both of the two adjacent center cubies are different from both colors on the facelets of that edge cubie?
+
+2.1-3 In what cubicle can a corner cubie be placed so that none of the center cubies adjacent to that cubiecles has the color of any of the three facelets of that corner cubie? Describe the cubicle location relative to the home position of the cubie.
