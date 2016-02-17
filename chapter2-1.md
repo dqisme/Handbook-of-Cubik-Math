@@ -41,13 +41,14 @@ Similarly, if the three facelets of a corner cubie are orange, green, and white 
 
 For each edge and corner cubie in the cube, the unique cubicle to which it must be restored is called the *home location* for that cubie. When a cubie is in its home lcoation and its facelets colors match the colors of the center pieces on each face, then the cubie is said to be in its *home position*.
 
-It is possible for a cubie to be in the cubicle of its home location without being in its home position. A corner piece in this condition is said to be *twisted* in its home location.An edge piece in this condition is said to be *flipped* in its home location. Figure 2-7 shows a twisted corner cubie and a flipped edge cubie. Thus, each corner and edge cubie has a unique home location and in that cubicle it has a unique placement which puts it in its home position.
+It is possible for a cubie to be in the cubicle of its home location without being in its home position. A corner piece in this condition is said to be *twisted* in its home location. An edge piece in this condition is said to be *flipped* in its home location. Figure 2-7 shows a twisted corner cubie and a flipped edge cubie. Thus, each corner and edge cubie has a unique home location and in that cubicle it has a unique placement which puts it in its home position.
 
 ![Figure 2-7](.)
 
 ##EXERCISES:
 
 2.1-1 How many of the 54 facelets of the cube are
+
   a. facelets of curner cubies?
   b. facelets of edge cubies?
   c. facelets of center cubies?
