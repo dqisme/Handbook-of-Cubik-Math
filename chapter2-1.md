@@ -27,7 +27,7 @@ By rotating different faces of the cube, the cubies can be moved about. Each cub
 
 For each center piece the color of the opposite center piece never changes. Furthermore, if two opposite center pieces are placed in the positions of north and south poles respectively, then the sequential order of the other four center pieces around the equator is always the same.
 
-![Figure 2-2](.)
+![Figure 2-2](./images/figure2-2.svg "Figure 2-2")
 ![Figure 2-3](.)
 ![Figure 2-4](.)
 
