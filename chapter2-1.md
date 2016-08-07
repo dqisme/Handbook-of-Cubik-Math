@@ -27,8 +27,12 @@ By rotating different faces of the cube, the cubies can be moved about. Each cub
 
 For each center piece the color of the opposite center piece never changes. Furthermore, if two opposite center pieces are placed in the positions of north and south poles respectively, then the sequential order of the other four center pieces around the equator is always the same.
 
-![Figure 2-2](./images/figure2-2.svg "Figure 2-2")
-![Figure 2-3](./images/figure2-3.svg "Figure 2-3")
+<div style="float:left;width: 50%;">
+  <img src="./images/figure2-2.svg" alt="Figure 2-2" />
+</div>
+<div style="float:left;width: 50%;">
+  <img src="./images/figure2-3.svg" alt="Figure 2-3" />
+</div>
 ![Figure 2-4](.)
 
 Since the center cubie of each face determines the only color to which that face can be restored, we can also define the one and only cubicle in which each cubie can be placed to restore the cube. For example, if the two facelets of an edge cubie are orange and green, then that piece must be placed in the unique edge cubicle between the orange center piece and the green center piece as shown shaded in Figure 2-5. Furthermore, the cubie must be placed in that cubicle so that its orange facelet is next to the orange center piece and the green facelet is next to the green center piece.
